@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EF0107,100:9C824A&height=200&section=header&text=Reva%20Wiki&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=IT%20Infrastructure%20and%20AIOps%20Specialist&descAlignY=62&descSize=18" width="100%"/>
+  <img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@52b3c5965dfb5db54ec02ede79d5f9b6138b9417/assets/header.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -83,5 +83,5 @@ CI/CD Pipeline · GitOps Workflow · Zero-Downtime Deployment · Monitoring, Log
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9C824A,100:EF0107&height=100&section=footer" width="100%"/>
+  <img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@52b3c5965dfb5db54ec02ede79d5f9b6138b9417/assets/footer.svg" width="100%"/>
 </p>
