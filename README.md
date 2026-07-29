@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=Building+AI+agents+that+triage+incidents+before+I+do;Terraform+by+day%2C+YAML+by+night%2C+HCL+only+when+forced;Somewhere+between+infrastructure+engineer+and+AI+whisperer;Kubernetes%2C+ECS%2C+and+a+mild+caffeine+dependency" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=Automating+IT+Ops%2C+one+workflow+at+a+time;Deploying+on+Friday+nights+like+it%27s+any+other+day;Part-time+cloud+engineer%2C+full-time+AI+whisperer;Kubernetes%2C+Terraform%2C+and+sleep+deprivation" alt="Typing SVG" />
 </p>
 
 <p align="center">
