@@ -1,0 +1,30 @@
+<svg width="1600" height="200" viewBox="0 0 1600 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#800000"/>
+      <stop offset="100%" stop-color="#FD8B9D"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sq { fill: #ffffff; opacity: 0.16; animation: drift 9s linear infinite; }
+    .sq2 { animation-duration: 12s; opacity: 0.12; }
+    .sq3 { animation-duration: 7s; opacity: 0.2; }
+    @keyframes drift {
+      from { transform: translateX(-60px) rotate(0deg); }
+      to   { transform: translateX(1660px) rotate(90deg); }
+    }
+    .title, .subtitle { fill: #ffffff; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; animation: fadeIn 1.2s ease-in-out forwards; }
+    .title { font-size: 46px; font-weight: 700; }
+    .subtitle { font-size: 20px; font-weight: 500; }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <rect width="1600" height="200" fill="url(#headerGrad)"/>
+  <rect class="sq" x="120" y="40" width="18" height="18" style="animation-delay:0s"/>
+  <rect class="sq sq2" x="380" y="130" width="14" height="14" style="animation-delay:1.5s"/>
+  <rect class="sq sq3" x="640" y="60" width="22" height="22" style="animation-delay:3s"/>
+  <rect class="sq" x="900" y="150" width="16" height="16" style="animation-delay:4.5s"/>
+  <rect class="sq sq2" x="1150" y="35" width="20" height="20" style="animation-delay:2s"/>
+  <rect class="sq sq3" x="1350" y="120" width="14" height="14" style="animation-delay:6s"/>
+  <text x="50%" y="40%" text-anchor="middle" dominant-baseline="middle" class="title">Reva Wiki</text>
+  <text x="50%" y="70%" text-anchor="middle" dominant-baseline="middle" class="subtitle">AIOps in-the-making</text>
+</svg>
