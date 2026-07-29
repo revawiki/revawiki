@@ -1,8 +1,12 @@
 <svg width="1600" height="200" viewBox="0 0 1600 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="headerGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#800000"/>
-      <stop offset="100%" stop-color="#FD8B9D"/>
+      <stop offset="0%" stop-color="#AC131C"/>
+      <stop offset="20%" stop-color="#950706"/>
+      <stop offset="40%" stop-color="#750227"/>
+      <stop offset="60%" stop-color="#570044"/>
+      <stop offset="80%" stop-color="#3B005C"/>
+      <stop offset="100%" stop-color="#250740"/>
     </linearGradient>
   </defs>
   <style>
