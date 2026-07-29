@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@c4f12159b6c2bed2715d92da51ad04dd73e898bc/assets/typing.svg" alt="Typing SVG" />
+  <img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@ad6c6a9b7bf19776ad3a14447f1ab448d03c62cf/assets/typing.svg" alt="Typing SVG" />
 </p>
 
 <p align="center">
