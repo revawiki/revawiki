@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@52b3c5965dfb5db54ec02ede79d5f9b6138b9417/assets/header.svg" width="100%"/>
+  <img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@459278b6eda89c3566b96a07f9d6762da4c5e384/assets/header.svg" width="100%"/>
 </p>
 
 <p align="center">
