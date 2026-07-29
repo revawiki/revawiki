@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://revawiki.github.io"><img src="https://img.shields.io/badge/portfolio-revawiki.github.io-0078D4?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/revawiki"><img src="https://img.shields.io/badge/linkedin-revawiki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/revawiki"><img src="https://img.shields.io/badge/x-revawiki-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:reva.wiki@gmail.com"><img src="https://img.shields.io/badge/email-reva.wiki-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://revawiki.github.io"><img src="https://img.shields.io/badge/portfolio-revawiki.github.io-0078D4?style=flat-square" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/revawiki"><img src="https://img.shields.io/badge/linkedin-revawiki-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/revawiki"><img src="https://img.shields.io/badge/x-revawiki-000000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:reva.wiki@gmail.com"><img src="https://img.shields.io/badge/email-reva.wiki@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## About
@@ -121,8 +121,8 @@ philosophy: automate the toil, not the judgment calls
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=revawiki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revawiki&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=revawiki&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=revawiki&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
