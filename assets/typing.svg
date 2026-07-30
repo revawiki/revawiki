@@ -1,46 +1,36 @@
-<svg width="650" height="50" viewBox="0 0 650 50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#AC131C"/>
-      <stop offset="20%" stop-color="#950706"/>
-      <stop offset="40%" stop-color="#750227"/>
-      <stop offset="60%" stop-color="#570044"/>
-      <stop offset="80%" stop-color="#3B005C"/>
-      <stop offset="100%" stop-color="#250740"/>
-    </linearGradient>
-  </defs>
+<svg width="700" height="50" viewBox="0 0 700 50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
-    text { font-family: "Fira Code", monospace; font-size: 20px; font-weight: 700; fill: url(#textGrad); }
+    text { font-family: "Fira Code", monospace; font-size: 20px; font-weight: 700; fill: #AC131C; }
   </style>
   <path id="p0">
     <animate id="p0grow" attributeName="d" begin="0s;p3shrink.end" dur="1.6s" fill="freeze"
-      values="M0,25 H0;M0,25 H520"/>
+      values="M90,25 H90;M90,25 H610"/>
     <animate id="p0shrink" attributeName="d" begin="p0grow.end+1.2s" dur="0.3s" fill="freeze"
-      values="M0,25 H520;M0,25 H0"/>
+      values="M90,25 H610;M90,25 H90"/>
   </path>
   <text><textPath xlink:href="#p0">Automating IT Ops, one workflow at a time</textPath></text>
 
   <path id="p1">
     <animate id="p1grow" attributeName="d" begin="p0shrink.end" dur="1.6s" fill="freeze"
-      values="M0,25 H0;M0,25 H640"/>
+      values="M30,25 H30;M30,25 H670"/>
     <animate id="p1shrink" attributeName="d" begin="p1grow.end+1.2s" dur="0.3s" fill="freeze"
-      values="M0,25 H640;M0,25 H0"/>
+      values="M30,25 H670;M30,25 H30"/>
   </path>
   <text><textPath xlink:href="#p1">Deploying on Friday nights like it's any other day</textPath></text>
 
   <path id="p2">
     <animate id="p2grow" attributeName="d" begin="p1shrink.end" dur="1.6s" fill="freeze"
-      values="M0,25 H0;M0,25 H600"/>
+      values="M50,25 H50;M50,25 H650"/>
     <animate id="p2shrink" attributeName="d" begin="p2grow.end+1.2s" dur="0.3s" fill="freeze"
-      values="M0,25 H600;M0,25 H0"/>
+      values="M50,25 H650;M50,25 H50"/>
   </path>
   <text><textPath xlink:href="#p2">Part-time cloud engineer, full-time AI whisperer</textPath></text>
 
   <path id="p3">
     <animate id="p3grow" attributeName="d" begin="p2shrink.end" dur="1.6s" fill="freeze"
-      values="M0,25 H0;M0,25 H545"/>
+      values="M77,25 H77;M77,25 H622"/>
     <animate id="p3shrink" attributeName="d" begin="p3grow.end+1.2s" dur="0.3s" fill="freeze"
-      values="M0,25 H545;M0,25 H0"/>
+      values="M77,25 H622;M77,25 H77"/>
   </path>
   <text><textPath xlink:href="#p3">Kubernetes, Terraform, and sleep deprivation</textPath></text>
 </svg>
