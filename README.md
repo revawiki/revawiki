@@ -25,15 +25,9 @@ mindset: Automate the toil, not human wisdom
 ## The Arsenal <img src="https://img.icons8.com/?size=100&id=21738&format=png&color=000000" width="22" height="22" valign="middle"/>
 
 <p align="center">
-
-**AIOps & AI Automation** &nbsp;|&nbsp; **Cloud Engineering** &nbsp;|&nbsp; **DevOps**
-
+<strong>AIOps &amp; AI Automation</strong> &nbsp;|&nbsp; <strong>Cloud Engineering</strong> &nbsp;|&nbsp; <strong>DevOps</strong>
 </p>
 
-Agent Swarm · RAG & Knowledge Base · MCP Server · Human-in-the-Loop · Guardrails
-
-Container Orchestration · Hybrid Architecture · Infrastructure as Code · Cost Optimization
-<br><br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" title="Azure"/>
@@ -55,8 +49,6 @@ Container Orchestration · Hybrid Architecture · Infrastructure as Code · Cost
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" title="Windows Server"/>
 </p>
 
-CI/CD Pipeline · GitOps Workflow · Zero-Downtime Deployment · Monitoring, Logging & Traceability
-<br><br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40" title="Bitbucket"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" title="Jenkins"/>
