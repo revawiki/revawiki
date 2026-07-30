@@ -10,17 +10,16 @@
   <a href="mailto:reva.wiki@gmail.com"><img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@649218917fd14dc41a1f71b03d25c1c018230d4e/assets/badge-email.svg" /></a>
 </p>
 
-## About
+## <img src="https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png" width="22" height="22" valign="middle"/> About
 
 ```yaml
-name: Reva Wiki
-role: IT Infrastructure & AIOps Specialist
-based_in: Bogor, Indonesia
-currently: Senior System Engineer @ Tech Mahindra
-background: systems administration -> DevOps -> cloud infrastructure -> AIOps
-currently_building: unified AIOps copilot combining RAG, memory, and an MCP-connected automation layer
-currently_exploring: agent swarms, guardrails, human-in-the-loop remediation
-philosophy: automate the toil, not the judgment calls
+name: Reva Hristo Wiki Fonseca
+role: "All-Things" Cloud and AI Engineer
+based_in: Bogor 🌧️🌃, Indonesia 🇮🇩
+journey: IT Support -> Sys Admin -> DevOps -> AIOps
+currently_building: AI automation to help cloud engineers spend less time firefighting and more time building
+currently_exploring: cost-efficient AI approaches that still uphold stellar security
+mindset: automate the toil, not human wisdom
 ```
 
 ## The Arsenal <img src="https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg" width="22" height="22" valign="middle"/>
