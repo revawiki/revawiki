@@ -4,11 +4,11 @@
   </style>
   <path id="p0">
     <animate id="p0grow" attributeName="d" begin="0s;p3shrink.end" dur="1.6s" fill="freeze"
-      values="M90,25 H90;M90,25 H610"/>
+      values="M57,25 H57;M57,25 H643"/>
     <animate id="p0shrink" attributeName="d" begin="p0grow.end+1.2s" dur="0.3s" fill="freeze"
-      values="M90,25 H610;M90,25 H90"/>
+      values="M57,25 H643;M57,25 H57"/>
   </path>
-  <text><textPath xlink:href="#p0">Automating IT Ops, one workflow at a time</textPath></text>
+  <text><textPath xlink:href="#p0">Automating IT operations, one workflow at a time</textPath></text>
 
   <path id="p1">
     <animate id="p1grow" attributeName="d" begin="p0shrink.end" dur="1.6s" fill="freeze"
@@ -20,11 +20,11 @@
 
   <path id="p2">
     <animate id="p2grow" attributeName="d" begin="p1shrink.end" dur="1.6s" fill="freeze"
-      values="M50,25 H50;M50,25 H650"/>
+      values="M57,25 H57;M57,25 H643"/>
     <animate id="p2shrink" attributeName="d" begin="p2grow.end+1.2s" dur="0.3s" fill="freeze"
-      values="M50,25 H650;M50,25 H50"/>
+      values="M57,25 H643;M57,25 H57"/>
   </path>
-  <text><textPath xlink:href="#p2">Part-time cloud engineer, full-time AI whisperer</textPath></text>
+  <text><textPath xlink:href="#p2">Part-time cloud magician, full-time AI whisperer</textPath></text>
 
   <path id="p3">
     <animate id="p3grow" attributeName="d" begin="p2shrink.end" dur="1.6s" fill="freeze"
