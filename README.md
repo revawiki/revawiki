@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@54ac09defa6d672e3ebb41b4481675ecd2f70a47/assets/header.svg" width="100%"/>
   <br/>
-  <img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@673b3165953756c6bae8af0f559b90c87bd6ae34/assets/spacer.svg" height="6"/>
-  <br/>
   <img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@54ac09defa6d672e3ebb41b4481675ecd2f70a47/assets/typing.svg" alt="Typing SVG" width="500"/>
   <br/>
   <a href="https://revawiki.github.io"><img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@649218917fd14dc41a1f71b03d25c1c018230d4e/assets/badge-portfolio.svg" /></a>&nbsp;
