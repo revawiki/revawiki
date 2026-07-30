@@ -1,13 +1,9 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@54ac09defa6d672e3ebb41b4481675ecd2f70a47/assets/header.svg" width="100%"/>
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@54ac09defa6d672e3ebb41b4481675ecd2f70a47/assets/typing.svg" alt="Typing SVG" width="500"/>
-</p>
-
-<p align="center">
-  <a href="https://revawiki.github.io"><img src="https://img.shields.io/badge/portfolio-revawiki.github.io-000000?style=flat-square&logo=homepage&logoColor=white" /></a>&nbsp;&nbsp;
+  <br/>
+  <a href="https://revawiki.github.io"><img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@d01b5c7c8cbeee6d5eb9026c1970f92385476029/assets/badge-portfolio.svg" /></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/revawiki"><img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@7f001ec29cb55f6c385c7c5d0250a07378f872c0/assets/badge-linkedin.svg" /></a>&nbsp;&nbsp;
   <a href="https://x.com/revawiki"><img src="https://img.shields.io/badge/x-revawiki-000000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="mailto:reva.wiki@gmail.com"><img src="https://img.shields.io/badge/email-reva.wiki@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
