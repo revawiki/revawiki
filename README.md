@@ -29,7 +29,7 @@ mindset: Automate the toil, not human wisdom
 </p>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@53b8be191d91990ceebc7aa0136809fccc82eecb/assets/arsenal.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@8c7adcdeca13a9af8f322f07462e330b215758be/assets/arsenal.svg"/>
 </p>
 
 ## GitHub Stats
