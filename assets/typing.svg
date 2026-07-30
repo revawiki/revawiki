@@ -8,7 +8,7 @@
     <animate id="p0shrink" attributeName="d" begin="p0grow.end+1.2s" dur="0.3s" fill="freeze"
       values="M57,25 H643;M57,25 H57"/>
   </path>
-  <text><textPath xlink:href="#p0">Automating IT operations, one workflow at a time</textPath></text>
+  <text textLength="586" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#p0">Automating IT operations, one workflow at a time</textPath></text>
 
   <path id="p1">
     <animate id="p1grow" attributeName="d" begin="p0shrink.end" dur="1.6s" fill="freeze"
@@ -16,7 +16,7 @@
     <animate id="p1shrink" attributeName="d" begin="p1grow.end+1.2s" dur="0.3s" fill="freeze"
       values="M30,25 H670;M30,25 H30"/>
   </path>
-  <text><textPath xlink:href="#p1">Deploying on Friday nights like it's any other day</textPath></text>
+  <text textLength="640" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#p1">Deploying on Friday nights like it's any other day</textPath></text>
 
   <path id="p2">
     <animate id="p2grow" attributeName="d" begin="p1shrink.end" dur="1.6s" fill="freeze"
@@ -24,7 +24,7 @@
     <animate id="p2shrink" attributeName="d" begin="p2grow.end+1.2s" dur="0.3s" fill="freeze"
       values="M57,25 H643;M57,25 H57"/>
   </path>
-  <text><textPath xlink:href="#p2">Part-time cloud magician, full-time AI whisperer</textPath></text>
+  <text textLength="586" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#p2">Part-time cloud magician, full-time AI whisperer</textPath></text>
 
   <path id="p3">
     <animate id="p3grow" attributeName="d" begin="p2shrink.end" dur="1.6s" fill="freeze"
@@ -32,5 +32,5 @@
     <animate id="p3shrink" attributeName="d" begin="p3grow.end+1.2s" dur="0.3s" fill="freeze"
       values="M77,25 H622;M77,25 H77"/>
   </path>
-  <text><textPath xlink:href="#p3">Kubernetes, Terraform, and sleep deprivation</textPath></text>
+  <text textLength="545" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#p3">Kubernetes, Terraform, and sleep deprivation</textPath></text>
 </svg>
