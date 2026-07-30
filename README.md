@@ -18,8 +18,8 @@ role: "All-Things" Cloud and AI Engineer
 based_in: Bogor 🌧️🌃, Indonesia 🇮🇩
 journey: IT Support -> Sys Admin -> DevOps -> AIOps
 currently_building: AI automation to help cloud engineers spend less time firefighting and more time building
-currently_exploring: cost-efficient AI approaches that still uphold stellar security
-mindset: automate the toil, not human wisdom
+currently_exploring: Cost-efficient AI approaches that still uphold stellar security
+mindset: Automate the toil, not human wisdom
 ```
 
 ## The Arsenal <img src="https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg" width="22" height="22" valign="middle"/>
