@@ -25,19 +25,7 @@ mindset: Automate the toil, not human wisdom
 ## The Arsenal <img src="https://img.icons8.com/?size=100&id=21738&format=png&color=000000" width="22" height="22" valign="middle"/>
 
 <p align="center">
-<strong>AIOps &amp; AI Automation</strong> &nbsp;|&nbsp; <strong>Cloud Engineering</strong> &nbsp;|&nbsp; <strong>DevOps</strong>
-</p>
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@8e12f8b093b1d290cbda4429c953ddf26917f574/assets/arsenal-ai.svg"/>
-</p>
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@8e12f8b093b1d290cbda4429c953ddf26917f574/assets/arsenal-cloud.svg"/>
-</p>
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@8e12f8b093b1d290cbda4429c953ddf26917f574/assets/arsenal-devops.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@50b6951b3584037e72c29bd68f63f57805bab914/assets/arsenal.svg"/>
 </p>
 
 ## GitHub Stats
