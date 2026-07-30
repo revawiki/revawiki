@@ -22,54 +22,62 @@ currently_exploring: Cost-efficient AI approaches that still uphold stellar secu
 mindset: Automate the toil, not human wisdom
 ```
 
-## The Arsenal <img src="https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg" width="22" height="22" valign="middle"/>
+## The Arsenal <img src="https://img.icons8.com/?size=100&id=21738&format=png&color=000000" width="22" height="22" valign="middle"/>
 
-AIOps & AI Automation
-<br>
+<p align="center">
+
+**AIOps & AI Automation** &nbsp;|&nbsp; **Cloud Engineering** &nbsp;|&nbsp; **DevOps**
+
+</p>
+
 Agent Swarm · RAG & Knowledge Base · MCP Server · Human-in-the-Loop · Guardrails
 
-Cloud Platform
-<br>
 Container Orchestration · Hybrid Architecture · Infrastructure as Code · Cost Optimization
 <br><br>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" title="Azure"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="GCP"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="40" height="40" title="Digital Ocean"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" title="Kubernetes"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" title="Terraform"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" title="Ansible"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" title="Redis"/>
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" title="Kafka"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" title="Ubuntu"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="40" height="40" title="CentOS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" title="Windows Server"/>
+</p>
 
-DevOps
-<br>
 CI/CD Pipeline · GitOps Workflow · Zero-Downtime Deployment · Monitoring, Logging & Traceability
 <br><br>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40" title="Bitbucket"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" title="Jenkins"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" title="GitLab"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" title="Grafana"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" title="Prometheus"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" title="Elastic"/>
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/newrelic/newrelic-original.svg" width="40" height="40" title="New Relic"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" width="40" height="40" title="Datadog"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="40" height="40" title="Sonarqube"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" width="40" height="40" title="Vault"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" title="Bash"/>
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40" title="PowerShell"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" title="Go"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" title="Jira"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40" title="Confluence"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40" title="Notion"/>
+</p>
 
 ## GitHub Stats
 
