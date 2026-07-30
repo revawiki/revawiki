@@ -10,7 +10,7 @@
   <a href="mailto:reva.wiki@gmail.com"><img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@649218917fd14dc41a1f71b03d25c1c018230d4e/assets/badge-email.svg" /></a>
 </p>
 
-## <img src="https://img.icons8.com/?size=100&id=ZmqhlFRAz7gQ&format=png&color=000000" width="22" height="22" valign="middle"/> About
+## <img src="https://img.icons8.com/?size=100&id=ZmqhlFRAz7gQ&format=png&color=000000" width="22" height="22" valign="middle"/> About Me 👋
 
 ```yaml
 name: Reva Hristo Wiki Fonseca
