@@ -32,11 +32,11 @@ mindset: Automate the toil, not human wisdom
 <img src="https://cdn.jsdelivr.net/gh/revawiki/revawiki@205e63e39adf050df0bcadc9ddf6e07f5d166694/assets/arsenal.svg"/>
 </p>
 
-## GitHub Stats
+## Stats 📊
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=revawiki&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=revawiki&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=revawiki&hide_rank=true&custom_title=Stats%20for%20Nerds&show_icons=true&include_all_commits=true&theme=midnight-purple"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=revawiki&layout=donut&langs_count=5&theme=midnight-purple"/>
 </p>
 
 <p align="center">
