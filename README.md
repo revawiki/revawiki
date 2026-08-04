@@ -36,8 +36,8 @@ mindset: Automate the toil, not human wisdom
 ## Stats 📊
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=revawiki&hide_rank=true&custom_title=Stats%20for%20Nerds&show_icons=true&include_all_commits=true&theme=midnight-purple"/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=revawiki&layout=donut&langs_count=5&theme=midnight-purple"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=revawiki&hide_rank=true&custom_title=Stats%20for%20Nerds&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_bust=1"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=revawiki&layout=donut&langs_count=5&theme=midnight-purple&cache_bust=1"/>
 </p>
 
 <p align="center">
